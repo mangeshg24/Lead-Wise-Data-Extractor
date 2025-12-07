@@ -3,5 +3,5 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/label-processing-dashboard/",
+  base: "/Lead-Wise-Data-Extractor/",
 });
